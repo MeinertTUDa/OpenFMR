@@ -33,7 +33,7 @@ The grounded coplanar waveguide is manufactured on a 200µm Rogers 4003C prepreg
 
 ## Modulation Coils
 ![modulation_coils](https://github.com/user-attachments/assets/85482b52-3020-4d32-b007-3f6006c4cf32)
-The modulation coils need a support structure, which we create by 3D printing. There are two different designs available, for in-plane and out-of-plane measurements, respectively. The 0.2mm copper magnet wire (10m long) is wound by hand onto the support structure and connected to stronger cables via screw terminals, which are mounted with M2 threaded inserts into the support structure. These are clamped between the tapered poles, which are supposed to have a 50mm pole cap diameter. For other pole shapes, the designs have to be adapted or made from scratch. All 3D designs are available as Autodesk Inventor files.
+The modulation coils need a support structure, which we create by 3D printing. There are two different designs available, for in-plane and out-of-plane measurements, respectively. The 0.2mm copper magnet wire (10m long) is wound by hand onto the support structure and connected to stronger cables via screw terminals, which are mounted with M2 threaded inserts into the support structure. These are clamped between the tapered poles, which are supposed to have a 30mm pole cap diameter. For other pole shapes, the designs may have to be adapted or made from scratch. All 3D designs are available as Autodesk Inventor files.
 
 A stand for the GCPW is also available as a 3D print. This will require modification with a different magnet. 
 
